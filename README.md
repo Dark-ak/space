@@ -23,7 +23,7 @@ You can explore the live Space Landing Page demo here: [Demo Link](https://space
 
 ## Installation
 
-To run this Age Calculator locally on your machine, follow these steps:
+To run this Space Landing page locally on your machine, follow these steps:
 
 1. Clone this repository to your local machine:
 
